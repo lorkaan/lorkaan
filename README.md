@@ -1,4 +1,4 @@
-# About
+# About Me
 
 
 My name is Laurkan Rodriguez and I am a Software Engineer. Although I am an Irish citizen, I was born in Barbados, a small island in the Caribbean. At a young, I was always fascinated with patterns, mathematics and computers; not unusual for a child with an obsession with 90s science fiction shows and a dream of being a scientist. However, after a day of being teased and bullied at school, I had thought that would drive me for years to come. 
